@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/GAME.dir/src/main.cpp.o CMakeFiles/GAME.dir/src/userInput.cpp.o CMakeFiles/GAME.dir/src/ball.cpp.o -o GAME   -L/home/zombiewafle/Documentos/universidad/game/project/src  -Wl,-rpath,/home/zombiewafle/Documentos/universidad/game/project/src /usr/lib/libSDL2main.a /usr/lib/libSDL2-2.0.so.0.2800.2 -lSDL2main -lSDL2 
